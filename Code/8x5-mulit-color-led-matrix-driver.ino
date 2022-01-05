@@ -3,7 +3,7 @@
 //  Author: T. Sheflin
 //  Date: 12/23/2021
 //  Code idea from 10*8 LED Matrix with 4017 IC, By Vadim S. On 25.06.2009
-//  Code and circuit posted to github.com/tpsheflin/8x5-Multi-Color-LED-Matrix-Driver
+//  Code and circuit posted to https://github.com/tpsheflin/8x5-Multi-Color-LED-Matrix-Driver
 //  LED Matrix: CSM-58261EG-21, (Used Data Sheet for CSM-58261EG)
 //  HW: Arduino-UNO, 10 390 Ohm resistors and 36 jumper wires
 //  
