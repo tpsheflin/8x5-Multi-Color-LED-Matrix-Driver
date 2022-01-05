@@ -1,6 +1,5 @@
 8x5 LED Matrix Project wiring
 
-
 Arduino 	LED Matrix 
 Pin		Pin#
 D2-	-----	-16
