@@ -1,0 +1,8 @@
+Parts List:
+1  - Arduino UNO
+10 - 390 Ohm Resistors
+36 - Jumper wires
+1  - CSM-58261EG-21 Display
+1  - Large bread board
+1  - Small bread board
+1  - Difuser (cut from a piece of white paper)
