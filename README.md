@@ -4,6 +4,7 @@
 I purchased this 8 x 5 LED Matrix Display, CSM-58261EG-21, at a Hamfest several years ago (2017) and finally had the time to hook it up and make it work.
 The display has two LED's per "pixel" Red and Green and when both are enabled the color is Amber.   
 Something I've always wanted to do was to create my own character/number set, this was the perfect opportunity to do just that.  See screen shot of excel sheet used to plot the bits.
+
 Arduino code was developed to drive the LED Matrix with minimal flicker while scrolling characters typed into an array across the display.  The color of the message is changed each time through the main loop.
 
 Parts: Arduino UNO, 10 390 Ohm resistors, 36 jumper wires, CSM-58261EG-21 Display, large bread board, small bread board, difuser (cut piece of paper).
